@@ -1,0 +1,33 @@
+body {
+ background-image: url(file:///home/fabricio/Desktop/pankkk/IMG-20241013-WA0124.jpg);
+ background-size: cover;
+ background-position: center;
+}
+
+
+#pankie {
+    color: #ff0000;
+    font-size: 36px;
+    font-family: 'pacifico', cursive;
+    }
+  #salsita {
+    color: #000000;
+    font-size: 14px;
+    font-family: 'Carolina-pro', serif;
+    }
+  #kakaroto {
+    color: #000000;
+    font-size: 14px;
+    }
+  #mango {
+    color: #ff0000;
+    font-size: 35px;
+    font-family: 'Monserrat', cursive;
+    }
+    .imagen1 { 
+    width: 100px;
+    height: 100px;
+    opacity: 8;
+      margin: auto;
+      display: block;
+    }
